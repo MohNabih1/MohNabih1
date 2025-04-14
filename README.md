@@ -1,10 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" height="350px" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohNabih1/MohNabih1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohNabih1/MohNabih1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohNabih1/MohNabih1/output/pacman-contribution-graph.svg">
-</picture>
+<img src="uta.jpg" alt="UTA Logo" width="250px" align="right" style="margin-left: 20px;" />
 
 
 # 💫 YOOO! I'm Nabih, CS Student at UTA:
@@ -24,10 +20,15 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohNabih1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohNabih1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohNabih1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="250px" style="margin: 10px;" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohNabih1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -40,6 +41,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohNabih1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
