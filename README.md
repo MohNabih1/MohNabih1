@@ -20,6 +20,30 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+## 📁 Projects
+
+### 🛍️ BestPriceStore: Database & Website  
+🔗 [GitHub](https://github.com/MohNabih1/MyWorkshop.git)  
+A web-based inventory and vendor management system backed by a normalized SQL database and PHP interface.
+
+---
+
+### ⚙️ Transaction Manager – Concurrency Control Simulation  
+🔗 [GitHub](https://github.com/MohNabih1/MyWorkshop.git)  
+Simulates database concurrency control using Strict 2PL, lock management, and transaction logging.
+
+---
+
+### 🌳 B+ Tree Implementation: Index File Organization for DBMS MINIBASE  
+🔗 [GitHub](https://github.com/MohNabih1/MyWorkshop.git)  
+Implements B+ Tree index structure integrated into MINIBASE to simulate file organization in database systems.
+
+---
+
+### 💰 QuickFin: Financial Helper App  
+🔗 [GitHub](https://github.com/MohNabih1/MyWorkshop.git)  
+A Kotlin-based Android app for tip calculation, currency conversion, investment growth, and loan interest.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohNabih1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
