@@ -52,7 +52,22 @@
       <sub>A Kotlin-based Android app for tip calculation, currency conversion, investment growth, and loan interest.</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="project-5.png" alt="IMDb Hadoop" width="200px" style="border-radius: 10px;" /><br>
+      <strong>IMDb Data Analysis using Hadoop and SQL</strong><br>
+      <a href="https://github.com/MohNabih1/MyWorkshop.git">🔗 Check it out</a><br>
+      <sub>Analyzed movie genre trends with Hadoop MapReduce and SQL on a 50M-row Oracle IMDb dataset.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="project-6.png" alt="CNN Study" width="200px" style="border-radius: 10px;" /><br>
+      <strong>CNN Augmentation Analysis – Image Classification Study</strong><br>
+      <a href="https://github.com/MohNabih1/MyWorkshop.git">🔗 Check it out</a><br>
+      <sub>Improved CNN accuracy on CIFAR-10 by 1.7% using data augmentation with PyTorch and per-class analysis.</sub>
+    </td>
+  </tr>
 </table>
+
 
 
 
