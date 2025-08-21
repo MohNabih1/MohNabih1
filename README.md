@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" height="350px" />
+
 
 <img src="uta.jpg" alt="UTA Logo" width="250px" align="right" style="margin-left: 20px;" />
 
