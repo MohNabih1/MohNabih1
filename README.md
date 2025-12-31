@@ -3,8 +3,12 @@
 <img src="uta.jpg" alt="UTA Logo" width="250px" align="right" style="margin-left: 20px;" />
 
 
-# 💫 YOOO! I'm Nabih, CS Student at UTA:
-🔭 Senior CS student @UTA, graduating Dec 2025. Currently turning data, code, and caffeine into cool projects.<br><br>🤝 On the hunt for entry-level roles or internships in ML, data science, or backend magic—especially ones pushing the limits of AI.<br><br>🌱 Learning how to make machines think (AI & ML), scale big data , and lock things down with secure system design.<br><br>💬 Ask me about building Android apps, SQL wrangling, clustering data, or why Kotlin just hits different.<br><br>⚡ Fun fact: I build LEGO sets to stay sharp—it’s meditation, but with bricks.
+# 💫 Hey! I'm Nabih, CS graduate from UTA:
+💻 Computer Science graduate from the University of Texas at Arlington, December 2025
+📊 Interested in machine learning, data science, and backend systems
+🧠 Enjoy turning data and ideas into practical, real world solutions
+🚀 Actively building projects that challenge me and sharpen my skills
+🔍 Check out my work below
 
 
 ## 🌐 Socials:
