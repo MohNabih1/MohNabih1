@@ -3,9 +3,13 @@
 
 # 💫 Hey! I'm Nabih, CS graduate from UTA:
 💻 Computer Science graduate from the University of Texas at Arlington, December 2025
+
 📊 Interested in machine learning, data science, and backend systems
+
 🧠 Enjoy turning data and ideas into practical, real world solutions
+
 🚀 Actively building projects that challenge me and sharpen my skills
+
 🔍 Check out my work below
 
 
