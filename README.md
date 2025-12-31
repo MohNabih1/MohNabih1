@@ -1,5 +1,3 @@
-
-
 <img src="uta.jpg" alt="UTA Logo" width="250px" align="right" style="margin-left: 20px;" />
 
 
@@ -70,6 +68,20 @@
       <sub>Improved CNN accuracy on CIFAR-10 by 1.7% using data augmentation with PyTorch and per-class analysis.</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="project-7.png" alt="AR Wetlands Table" width="200px" style="border-radius: 10px;" /><br>
+      <strong>AR Wetlands: Water Pollution Simulator</strong><br>
+      <a href="https://github.com/UTA-USACE/ARWetlandsTable">🔗 Check it out</a><br>
+      <sub>An educational AR tabletop experience built in Unity with an Android companion app for marker based scene activation and interactive water pollution visualization, sponsored by the U.S. Army Corps of Engineers (USACE).</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="project-8.png" alt="SPLC Compiler" width="200px" style="border-radius: 10px;" /><br>
+      <strong>SPLC: Simple Programming Language Compiler</strong><br>
+      <a href="https://github.com/MohNabih1/MyWorkshop.git">🔗 Check it out</a><br>
+      <sub>Implemented a SPL compiler in C++ using flex and bison with LLVM based code generation, supporting lexical analysis, parsing, semantic type checking, interpreter evaluation, and full code generation across six staged assignments.</sub>
+    </td>
+  </tr>
 </table>
 
 
@@ -88,7 +100,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MohNabih1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme-stats.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohNabih1&limit=5&theme=dark&combine_all_yearly_contributions=true)
